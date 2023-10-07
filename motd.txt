@@ -1,0 +1,14 @@
+Welcome to Pre Fortress 2 Classic
+Play nice.
+
+Our map rotation is:
+- Gravel Pit
+- Dustbowl
+- Dustbowl2
+- Badlands
+- Powerhouse
+- Granary
+- Well (CP)
+- Well (CTF)
+- 2Fort
+- Hydro
