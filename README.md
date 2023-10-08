@@ -17,6 +17,14 @@ This is basically just PF2 0.6 preserved in its buggy, horribly disfigured form!
 
 - Can I install this on Windows or Linux?
   - Yup! The game is compiled for both!
+ 
+- So what has *actually* changed?
+  - Changes from PF2 0.6 include:
+	  - New name!
+    - New logo!
+    - New intro video!
+    - Civilian leaderboard icons! (Literally the only QOL change)
+
 
 - I don't see any servers...
   - Feel free to host one!
