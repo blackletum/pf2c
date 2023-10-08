@@ -46,3 +46,7 @@ This is basically just PF2 0.6 preserved in its buggy, horribly disfigured form!
  
 - This mod SUCKS! Where can I find the *real* Pre-Fortress 2?!
   - https://prefortress.com/
+
+# Installation
+
+- Same as every other sourcemod, just make sure the folder name for the game is pf2c
