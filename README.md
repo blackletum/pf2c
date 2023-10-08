@@ -25,7 +25,6 @@ This is basically just PF2 0.6 preserved in its buggy, horribly disfigured form!
     - New intro video!
     - Civilian leaderboard icons! (Literally the only QOL change)
 
-
 - I don't see any servers...
   - Feel free to host one!
 
@@ -37,6 +36,9 @@ This is basically just PF2 0.6 preserved in its buggy, horribly disfigured form!
 
 - I renamed the folder in sourcemods and am having issues now.
   - *Don't do that.*
+
+- I have *totally legitimate mod that isn't just balloon fempyro* that I want to add to the game, can I ?!?!
+  - Probably not, but if it's a TRUE Quality-of-Life improvement, you can make a pull request for it. That would be very much reviewd on a case-by-case basis.
  
 - Can we contact you if we run into issues?
   - How dare you even *think* of speaking to me.
