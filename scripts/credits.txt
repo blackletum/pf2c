@@ -316,13 +316,6 @@
 				"English"		"“master graphic design‟, made PF2C logo"
 			}
 		}
-		"rainerlutcha"
-		{
-			"other"
-			{
-				"English"		"Civilian leaderboard icons for PF2C"
-			}
-		}
 		"Randizer"
 		{
 			"other"
