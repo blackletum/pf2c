@@ -8,7 +8,7 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Primary Attributes
-	"Damage"				"12"
+	"Damage"				"18"
 	"Range"					"450"
 	"TimeFireDelay"			"0.5"
 	"TimeIdle"				"5.0"
