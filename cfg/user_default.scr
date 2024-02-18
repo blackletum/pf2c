@@ -47,14 +47,14 @@ DESCRIPTION INFO_OPTIONS
 		{ CATEGORY }
 	}
 	
-	"pf_discord_rpc"
+	"pf2c_discord_rpc"
 	{
 		"#TF_discord"
 		{ BOOL }
 		{ "1" }
 	}
 
-	"pf_discord_class"
+	"pf2c_discord_class"
 	{
 		"#TF_discord_class"
 		{ BOOL }
@@ -67,21 +67,21 @@ DESCRIPTION INFO_OPTIONS
 		{ CATEGORY }
 	}
 
-	"pf_team_colored_spy_cloak"
+	"pf2c_team_colored_spy_cloak"
 	{
 		"#TF_coloredcloak"
 		{ BOOL }
 		{ "1" }
 	}
 
-	"pf_muzzleflash"
+	"pf2c_muzzleflash"
 	{
 		"#TF_muzzleflash"
 		{ BOOL }
 		{ "1" }
 	}
 
-	"pf_showchatbubbles"
+	"pf2c_showchatbubbles"
 	{
 		"#TF_showchatbubbles"
 		{ BOOL }
@@ -95,7 +95,7 @@ DESCRIPTION INFO_OPTIONS
 		{ "1" }
 	}
 	
-	"pf_achievement_notifications"
+	"pf2c_achievement_notifications"
 	{
 		"#PF_Achievement_Notifications"
 		{ LIST
@@ -112,49 +112,49 @@ DESCRIPTION INFO_OPTIONS
 		{ CATEGORY }
 	}
 
-	"pf_muzzlelight"
+	"pf2c_muzzlelight"
 	{
 		"#TF_muzzlelight"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_muzzlelightsprops"
+	"pf2c_muzzlelightsprops"
 	{
 		"#TF_muzzlelightprop"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_burningplayerlight"
+	"pf2c_burningplayerlight"
 	{
 		"#TF_dlightfire"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_projectilelight"
+	"pf2c_projectilelight"
 	{
 		"#TF_dlightprojectile"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_cheapbulletsplash"
+	"pf2c_cheapbulletsplash"
 	{
 		"#TF_cheapwater"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_blood_impact_disable"
+	"pf2c_blood_impact_disable"
 	{
 		"#TF_violence"
 		{ BOOL }
 		{ "0" }
 	}
 
-	"pf_picmip"
+	"pf2c_picmip"
 	{
 		"#TF_PICMIP"
 		{ SLIDER -10 10 }
@@ -167,7 +167,7 @@ DESCRIPTION INFO_OPTIONS
 		{ CATEGORY }
 	}
 	
-	"pf_grenade_press_throw"
+	"pf2c_grenade_press_throw"
 	{	
 		"#PF_Grenade_Press_Throw"
 		{ BOOL }
@@ -375,7 +375,7 @@ DESCRIPTION INFO_OPTIONS
 		{ "0" }
 	}
 	
-	"pf_holdzoom"
+	"pf2c_holdzoom"
 	{
 		"#PF_holdzoom"
 		{ BOOL }
@@ -409,7 +409,7 @@ DESCRIPTION INFO_OPTIONS
 		{ "0" }
 	}
 	
-	"pf_freezecammodel"
+	"pf2c_freezecammodel"
 	{
 		"#PF_FreezeCamModel"
 		{ BOOL }
